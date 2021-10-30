@@ -1,1 +1,1 @@
-echo "MY MAIN"
+echo "Maaaaan!!!"
